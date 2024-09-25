@@ -1,2 +1,4 @@
-# .github
-org-desc
+# ELTE Game Dev Club
+## Description
+
+## Contribution
